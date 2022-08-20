@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 Siddarth Sargunaraj
 
-Graduate Student, Rochester Institute of Technology
+Graduate Student
 
 Hello everyone!
 I am a final year graduate student and my interests lie in managing and analysing data. To further my knowledge in data analysis, 
