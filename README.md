@@ -15,13 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Siddarth Sargunaraj
-
-Graduate Student
-
-Hello everyone!
-I am a final year graduate student and my interests lie in managing and analysing data. To further my knowledge in data analysis, 
-I am currently learning Tableau. I am also currently working on whether the performance of classification on multi-label datasets can be 
-improved by converting them into binary datasets and then performing feature selection on each of the resulting datasets.
-
 Please feel free to reach out to me at: siddarth40[at]gmail[dot]com
